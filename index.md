@@ -2,6 +2,20 @@
 
 # Data Structures 2 Syllabus
 
+## Grading
+* An A is given to anyone who performs the median number of github commits across assignments or higher.
+
+```
+A is 100%-68% or more.
+B is 67-56%.
+C is 55-21%.
+D is 20-11%.
+F is 10-...%.
+```
+
+* Historically, using this grading method has drawn strong correlations between efforts on assignments and number of commits.
+
+
 ## Description
 This syllabus covers a comprehensive curriculum of data structures and algorithms, starting from the basics of CLI and Java programming, moving on to object-oriented programming, and culminating in advanced topics such as dynamic programming and graph algorithms. The course is designed to provide hands-on experience with implementing various data structures such as linked lists, arrays, trees, and graphs, as well as various algorithms for searching, sorting, and manipulating data.
 
